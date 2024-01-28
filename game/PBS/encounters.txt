@@ -302,3 +302,45 @@ Land,21
     10,PIKACHU,11,14
     10,SANDSHREW_1,11,14
     10,VULPIX_1,11,14
+
+#X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X LEGENDS KANTO X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+[032] # Route 1
+Land,20
+    20,PIDGEY,2,5
+    40,RATTATA,2,5
+    10,TAILLOW,2,5
+    30,SENTRET,2,5
+LandNight,20
+    20,HOOTHOOT,2,5
+    40,POOCHYENA,2,5
+    10,RATTATA,2,5
+    10,TAILLOW,2,5
+    10,SENTRET,2,5
+    10,PIDGEY,2,5
+#-------------------------------
+[022] # Golden Forest
+Land,20
+    20,CATERPIE,4,6
+    15,VENONAT,4,6
+    20,WURMPLE,4,6
+    5,JOLTIK,4,6
+    20,PIDOVE,4,6
+    10,PATRAT,4,6
+    10,LEDYBA,4,6
+LandNight,20
+    15,VENONAT,4,6
+    20,WURMPLE,4,6
+    5,JOLTIK,4,6
+    20,PIDOVE,4,6
+    10,PATRAT,4,6
+    10,SPINARAK,4,6
+#-------------------------------
+[076] # Route 2
+Land,30
+    30,SPEAROW,5,8
+    30,ZIGZAGOON,5,8
+    15,SURSKIT,5,8
+    15,DEWPIDER,5,8
+    5,PIKACHU,5,8
+    5,LOTAD,5,8
+#-------------------------------
